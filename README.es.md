@@ -72,7 +72,7 @@ El proyecto sigue una arquitectura frontend modular:
 git clone <URL_DE_TU_REPOSITORIO>
 
 # 2) Entra al directorio del proyecto
-cd crm-bizcore-nexus-platform
+cd crm-portfolio
 
 # 3) Instala dependencias
 npm install
