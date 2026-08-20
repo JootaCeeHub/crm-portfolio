@@ -1,6 +1,6 @@
 # BizCore360
 
-> **Curated public portfolio version.** This repository is a sanitized, non-production showcase extracted from the private source (`crm-bizcore-nexus-platform`). It intentionally excludes infrastructure, configuration, credentials, and internal history.
+> **Curated public portfolio version.** This repository is a sanitized, non-production showcase extracted from 1 private source repositoryy. It intentionally excludes infrastructure, configuration, credentials, and internal history.
 
 **Unified business management dashboard**
 
@@ -31,7 +31,6 @@ TypeScript · React · Tailwind · shadcn/ui
 - Typed TypeScript architecture with reusable component system
 - Client-first product experience with service abstractions for future backends
 - Modern build tooling and code-quality conventions
-- Verified with tests where included in this showcase
 
 ## Portfolio Context
 
